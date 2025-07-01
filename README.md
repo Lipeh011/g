@@ -63,10 +63,11 @@ http://localhost:4200
 # (Opcional) Para simular API local:
 json-server --watch db.json --port 3000
 
+```
 ---
 
 ## Autores
 
-| [<img src="https://github.com/Lipeh011.png" width="80px;">](https://github.com/Lipeh011) | [<img src="https://github.com/dev-wallace.png" width="80px;">](https://github.com/dev-wallace) |
-|:---:|:---:|
-| [Lipeh011](https://github.com/Lipeh011) | [dev-wallace](https://github.com/dev-wallace) |
+- [@Lipeh011](https://github.com/Lipeh011)  
+- [@dev-wallace](https://github.com/dev-wallace)
+
