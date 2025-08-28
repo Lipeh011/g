@@ -5,6 +5,12 @@
 > 💡 Este projeto foi **reconstruído do zero usando Angular**, uma tecnologia moderna e amplamente utilizada no mercado. A versão anterior havia sido feita em JSP com JDBC e MySQL. 
 ---
 
+## Preview inicial 
+
+![Preview](https://github.com/user-attachments/assets/01bc3302-23cc-4c6f-af7e-a03ee6024c37)
+
+
+----
 ## Funcionalidades
 
 ### Painel do Cliente
